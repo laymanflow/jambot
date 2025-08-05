@@ -1,0 +1,1 @@
+This is a centralized bot to encompass all discord bot ventures made by Jamie Layman.
